@@ -50,6 +50,7 @@ Podľa situácie by som zvážil:
 - reštart kontajnera alebo podu
 - uvoľnenie miesta na disku
 - zapnutie záložnej služby, ak nejaká je
+
 atď...
 
 
