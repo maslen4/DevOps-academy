@@ -1,6 +1,6 @@
 # Section 2
 
-## Task C - Docker Build fails (no space left om device)
+## Task C - Docker Build fails (no space left on device)
 
 Dôvody, prečo mohol build zlyhať:
 
