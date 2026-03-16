@@ -64,7 +64,7 @@ Treba otestovať dostupnosť všetkých služieb.
 ## 7. Hľadanie root cause
 
 Ak sme problém vyriešili napríklad rollbackom k poslednej stabilnej verzii, treba zistiť, čo presne spôsobilo chybu.
-Treba zistiť, čo sa stalo, prečo sa to stalo, prípadne prečo ochranné mechanizmy nezabránili výpadku.
+Treba zistiť, čo presne sa stalo, prečo sa to stalo, prípadne prečo ochranné mechanizmy nezabránili výpadku.Treba implementovať opravu.
 
 
 ## 8. Prevencia
