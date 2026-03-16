@@ -18,7 +18,7 @@ Priečinok node-modules, ktorý vznikne pri priíkaze "npm install" je príliš 
 
 ### Staré artefakty
 
-Staré images, stopnuté kontainery, alebo nazbieraná medzipamäť môžu zaberať miesto na disku. Čiže ak by aj práve tento image nebol príliš veľký, tak build môže padnúť pre nedostatok miesta.
+Staré images, stopnuté kontainery, alebo nazbieraná medzipamäť môžu zaberať miesto na disku. Čiže ak by aj práve tento image nebol príliš veľký, tak build môže zlyhať pre nedostatok miesta.
 
 
 ## Dočasné fixy
