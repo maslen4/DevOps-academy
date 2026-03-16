@@ -1,4 +1,4 @@
-Section 1
+# Section 1
 
 V tejto úlohe som vytvoril malú pythonovskú webovú aplikáciu a zabalil som ju do docker image. Aplikácia vyžíva Flask framework, ako bolo v zadaní. Použil som WSGI server Gunicorn. Docker image je vytvorený pomocou multi stage build, ako bolo v zadaní. V prvej fáze sa nainštalujú závislosti a v druhej fáze sa do výsledného image skopírujú iba potrebné balíky a samotná aplikácia. 
 
